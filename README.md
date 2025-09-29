@@ -1,5 +1,5 @@
 # Smart India Hackathon Workshop
-# Date:26-09-2025
+# Date:29-09-2025
 ## Register Number:25017492
 ## Name:H.Kavin prasad
 ## Problem Title
@@ -34,6 +34,64 @@ Supporting Data
 • 86% of Indian farmers are small or marginal (NABARD Report, 2022).
 • Studies show ICT-based advisories can increase crop yield by 20–30%.
 
+Flowchart (Text Representation)
+Start
+   │
+   ▼
+Farmer Registration / Login
+   │
+   ▼
+Data Collection
+   ├── Soil Sample Data
+   ├── Crop History
+   ├── Weather / Forecast
+   ├── Satellite & Remote Sensing
+   └── Farmer Inputs (questions, symptoms)
+   │
+   ▼
+Data Preprocessing
+   ├── Validate & Clean Data
+   └── Feature Extraction
+   │
+   ▼
+Analysis & Models
+   ├── Soil Analysis
+   ├── Weather Prediction
+   ├── Pest & Disease Detection
+   └── Crop Suitability & Yield Estimation
+   │
+   ▼
+Advisory Engine
+   ├── Rule-based Expert Knowledge
+   ├── ML-based Personalization
+   └── Farmer Constraints (budget, seeds, labour)
+   │
+   ▼
+Recommendation Generation
+   ├── Crop Selection
+   ├── Fertilizer & Dosage
+   ├── Irrigation Scheduling
+   ├── Pest/Disease Management
+   └── Market / Harvest Advice
+   │
+   ▼
+Delivery Channels
+   ├── SMS / IVR
+   ├── Mobile App
+   ├── Extension Worker
+   └── Printed Advisory
+   │
+   ▼
+Feedback & Monitoring
+   ├── Farmer Feedback
+   ├── Field Monitoring / IoT
+   └── Retraining Models
+   │
+   ▼
+Database / Knowledge Base
+   │
+   ▼
+End
 ## Problem Creater's Organization
 Government of Punjab
 
